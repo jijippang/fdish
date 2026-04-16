@@ -1,0 +1,133 @@
+
+{
+
+
+
+    "recipes": [
+        {
+            "name": "Tonkatsu",
+            "origin": [
+                "Japan"
+            ],
+            "prep_time_sec": 300,
+            "cook_time_sec": 600,
+            "yield_size_servings": 2,
+            "ingredients": {
+                "Pork": {
+                    "quantity_grams": 400
+                },
+                "Breadcrumbs": {
+                    "quantity_grams": 100
+                }
+            },
+            "cookware": [
+                "Pot",
+                "Knife"
+            ],
+            "instructions": [
+                "Bring pot of water to a boil",
+                "Cut the pork lengthwise"
+            ],
+            "nutrition_per_serving": {
+                "calories_kcal": 900,
+                "fat_grams": 32,
+                "protein_grams": 29,
+                "sodium_mgrams": 1426,
+                "fiber_grams": 7,
+                "carbohydrates_grams": 142,
+                "sugar_grams": 63
+            },
+            "notes": [
+                "Marinate the pork overnight in the fridge for deeper flavor",
+                "Fry the pork for a bit longer to get a browner crust"
+            ]
+        },
+        {
+            "name": "Bánh mì",
+            "origin": [
+                "Vietnam",
+                "France"
+            ],
+            "prep_time_sec": 1800,
+            "cook_time_sec": 1200,
+            "yield_size_servings": 2,
+            "ingredients": {
+                "Rice Vinegar": {
+                    "quantity_cup": 0.5
+                },
+                "White Sugar": {
+                    "quantity_cup": 0.25
+                },
+                "Water": {
+                    "quantity_cup": 0.25
+                },
+                "Carrots": {
+                    "quantity_cup": 0.25
+                },
+                "Daikon Radish": {
+                    "quantity_cup": 0.25
+                },
+                "White Onion": {
+                    "quantity_cup": 0.25
+                },
+                "Chicken Breast": {
+                    "quantity_item": 0.5
+                },
+                "Salt": {
+                    "quantity_pinch": 1.0 
+                },
+                "Black Pepper": {
+                    "quantity_pinch": 1.0 
+                },
+                "French Baguette": {
+                    "quantity_item": 1.0 
+                },
+                "Mayonnaise": {
+                    "quantity_tbsp": 4.0 
+                },
+                "Cucumber": {
+                    "quantity_cup": 0.25 
+                },
+                "Cilantro": {
+                    "quantity_tbsp": 1.0
+                },
+                "Jalapeño": {
+                    "quantity_item": 1.0
+                },
+                "Lime Wedge": {
+                    "quantity_item": 1.0
+                }
+            },
+            "cookware": [
+                "Pot",
+                "Knife"
+            ],
+            "instructions": [
+                "Bring pot of water to a boil",
+                "Cut the pork lengthwise"
+            ],
+            "nutrition_per_serving": {
+                "calories_kcal": 900,
+                "fat_grams": 32,
+                "protein_grams": 29,
+                "sodium_mgrams": 1426,
+                "fiber_grams": 7,
+                "carbohydrates_grams": 142,
+                "sugar_grams": 63
+            },
+            "notes": [
+                "Marinate the pork overnight in the fridge for deeper flavor",
+                "Fry the pork for a bit longer to get a browner crust"
+            ]
+        }
+
+
+
+    ]
+
+
+}
+
+
+
+
